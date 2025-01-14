@@ -22,3 +22,35 @@ git log --oneline
 
 # Thao tác
 - add -> edit -> add -> commit
+
+# git reset
+```bash
+#không mất code
+git reset --soft HEAĐ~1 # xoá message trước đó
+```
+
+# git remote 
+```bash
+git push origin <tennhanh>
+```
+```bash
+git branch -v #kiểm tra mìnhd dang ở nhánh nào
+```
+
+
+# git clone
+download source code về
+```bash
+git clone <duong_dan_source_code>
+```
+# Edit
+# Edit 2
+# Edit 3
+# Edit 4
+# Edit 5
+# Mai Dang Huy đã ở đây
+# Edit 6
+#Edit 7 kiet
+```bash
+git config --global pull.rebase false # merge
+```
