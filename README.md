@@ -54,3 +54,5 @@ git clone <duong_dan_source_code>
 ```bash
 git config --global pull.rebase false # merge
 ```
+
+xin chào
